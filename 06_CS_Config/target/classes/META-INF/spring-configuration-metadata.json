@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "cs",
+      "type": "com.couragesteak.entity.UserEntity",
+      "sourceType": "com.couragesteak.entity.UserEntity"
+    }
+  ],
+  "properties": [
+    {
+      "name": "cs.name",
+      "type": "java.lang.String",
+      "sourceType": "com.couragesteak.entity.UserEntity"
+    },
+    {
+      "name": "cs.star",
+      "type": "java.lang.String",
+      "sourceType": "com.couragesteak.entity.UserEntity"
+    }
+  ],
+  "hints": []
+}

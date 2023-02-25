@@ -1,0 +1,7 @@
+server:
+  port: 8083
+
+logging:
+  # 指定log4j.properties配置文件路径
+  config: classpath:log4j.properties
+

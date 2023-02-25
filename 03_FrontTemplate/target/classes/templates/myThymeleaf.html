@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div>
+
+    <table>
+        姓名：<span th:text="${user.userName}"></span>
+        年龄：<span th:text="${user.age}"></span>
+    </table>
+
+    <hr>
+
+    <div>
+        <ul th:each="user:${userList}">
+            <li>
+                <span th:if="${user.age>= 18}">成年</span>
+                <span th:if="${user.age< 18}">未成年</span>
+            </li>
+        </ul>
+    </div>
+
+</div>
+
+</body>
+</html>

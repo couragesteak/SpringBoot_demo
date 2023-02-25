@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+# 指定读取logback配置文件
+logging:
+  config: classpath:log/logback.xml
