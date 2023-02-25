@@ -9,7 +9,7 @@ CSDN: [https://blog.csdn.net/zx77588023/](https://blog.csdn.net/zx77588023/)
 
 公众号：
 
-![qrcode_cs](E:\java\SpringBoot_demo\assets\qrcode_cs.jpg)
+![qrcode_cs](https://static.couragesteak.com/common/qrcode_cs.jpg)
 
 
 
